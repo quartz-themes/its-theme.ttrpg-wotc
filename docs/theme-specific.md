@@ -43,13 +43,13 @@ title: "Theme Specific"
 > > 
 > > - **Death Saves**
 > >	  - ❌
-> >	  - [ ] 
-> >	  - [ ] 
-> >	  - [ ] 
+> >	  - [ ] &nbsp;
+> >	  - [ ] &nbsp;
+> >	  - [ ] &nbsp;
 > >	  - ✔
-> >	  - [ ] 
-> >	  - [ ] 
-> >	  - [ ] 
+> >	  - [ ] &nbsp;
+> >	  - [ ] &nbsp;
+> >	  - [ ] &nbsp;
 > > 
 >
 > ###### Traits
