@@ -23,20 +23,20 @@ title: "Theme Specific"
 > ---
 > | HP | AC | Initiative |
 > |:---:|:---:|:---:|
-> | | | |
+> | 42 | 12 | +2 |
 >
 > | STR | DEX | CON | INT | WIS | CHA |  |
 > |:---:|:---:|:---:|:---:|:---:|:---:|:--- |
-> |  |  |  |  |  |  |  |
-> |  |  |  |  |  |  | **Mod** |
-> |  |  |  |  |  |  | **Sav** |
+> | 15 | 14 | 13 | 12 | 10 | 8 |  |
+> | +2 | +2 | +1 | +1 | +0 | -1 | **Mod** |
+> | X | X | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **Sav** |
 > 
 > |  |  |
 > | ---:|:--- |
-> | **Speed** |  |
-> | **Passive Perception (WIS)** |  |
-> | **Proficiency Bonus** |  |
-> | **Darkvision** |  |
+> | **Speed** | 30 |
+> | **Passive Perception (WIS)** | +0 |
+> | **Proficiency Bonus** | +2 |
+> | **Darkvision** | 30ft. |
 >
 > ---
 > > [!checks|no-t]
@@ -55,7 +55,7 @@ title: "Theme Specific"
 > ###### Traits
 > | | |
 > | --- | --- |
-> | **Class** | |
-> | **.** | |
-> | **Racial Traits** | |
-> | **Feats** | |
+> | **Class** | Fighter |
+> | **.** | . |
+> | **Racial Traits** | Darkvision |
+> | **Feats** | Grappler |
