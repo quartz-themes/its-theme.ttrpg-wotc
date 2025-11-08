@@ -12,6 +12,7 @@ title: "Theme Specific"
 > - [[callouts|callouts]]
 
 > [!statblocks]
+> 
 > ![Char Image|cover right circle htiny wtiny lp]()
 > 
 > # Name
@@ -38,16 +39,18 @@ title: "Theme Specific"
 > | **Darkvision** |  |
 >
 > ---
-> > [!checks|no-t] 
+> > [!checks|no-t]
+> > 
 > > - **Death Saves**
-> >	- ❌
-> >	- [ ] 
-> >	- [ ] 
-> >	- [ ] 
-> >	- ✔
-> >	- [ ] 
-> >	- [ ] 
-> >	- [ ] 
+> >	  - ❌
+> >	  - [ ] 
+> >	  - [ ] 
+> >	  - [ ] 
+> >	  - ✔
+> >	  - [ ] 
+> >	  - [ ] 
+> >	  - [ ] 
+> > 
 >
 > ###### Traits
 > | | |
