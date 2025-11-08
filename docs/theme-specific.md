@@ -20,39 +20,39 @@ title: "Theme Specific"
 > *Basics*
 > 
 > ---
-| HP | AC | Initiative |
-|:---:|:---:|:---:|
-| | | |
+> | HP | AC | Initiative |
+> |:---:|:---:|:---:|
+> | | | |
 >
-| STR | DEX | CON | INT | WIS | CHA |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  | **Mod** |
-|  |  |  |  |  |  | **Sav** |
+> | STR | DEX | CON | INT | WIS | CHA |  |
+> |:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+> |  |  |  |  |  |  |  |
+> |  |  |  |  |  |  | **Mod** |
+> |  |  |  |  |  |  | **Sav** |
 > 
-|  |  |
-| ---:|:--- |
-| **Speed** |  |
-| **Passive Perception (WIS)** |  |
-| **Proficiency Bonus** |  |
-| **Darkvision** |  |
+> |  |  |
+> | ---:|:--- |
+> | **Speed** |  |
+> | **Passive Perception (WIS)** |  |
+> | **Proficiency Bonus** |  |
+> | **Darkvision** |  |
 >
 > ---
->> [!checks|no-t] 
->> - **Death Saves**
->>	- ❌
->>	- [ ] 
->>	- [ ] 
->>	- [ ] 
->>	- ✔
->>	- [ ] 
->>	- [ ] 
->>	- [ ] 
+> > [!checks|no-t] 
+> > - **Death Saves**
+> >	- ❌
+> >	- [ ] 
+> >	- [ ] 
+> >	- [ ] 
+> >	- ✔
+> >	- [ ] 
+> >	- [ ] 
+> >	- [ ] 
 >
 > ###### Traits
-| | |
-| --- | --- |
-| **Class** | |
-| **.** | |
-| **Racial Traits** | |
-| **Feats** | |
+> | | |
+> | --- | --- |
+> | **Class** | |
+> | **.** | |
+> | **Racial Traits** | |
+> | **Feats** | |
